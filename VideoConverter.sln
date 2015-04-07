@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoConverter", "VideoConverter\VideoConverter.csproj", "{EBF35C80-0EDE-4D21-AE7D-332091BE9928}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://h4rsh.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = VideoConverter\\VideoConverter.csproj
+		SccProjectName1 = VideoConverter
+		SccLocalPath1 = VideoConverter
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBF35C80-0EDE-4D21-AE7D-332091BE9928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF35C80-0EDE-4D21-AE7D-332091BE9928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF35C80-0EDE-4D21-AE7D-332091BE9928}.Debug|x64.ActiveCfg = Debug|x64
+		{EBF35C80-0EDE-4D21-AE7D-332091BE9928}.Debug|x64.Build.0 = Debug|x64
+		{EBF35C80-0EDE-4D21-AE7D-332091BE9928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF35C80-0EDE-4D21-AE7D-332091BE9928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF35C80-0EDE-4D21-AE7D-332091BE9928}.Release|x64.ActiveCfg = Release|x64
+		{EBF35C80-0EDE-4D21-AE7D-332091BE9928}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\VideoConverter\VideoConverter\bin\x64\Debug\VideoConverter.exe.config
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\VideoConverter\VideoConverter\obj\x64\Debug\VideoConverter.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\VideoConverter\VideoConverter\obj\x64\Debug\MainWindow.baml
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\VideoConverter\VideoConverter\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\VideoConverter\VideoConverter\obj\x64\Debug\App.g.cs
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\VideoConverter\VideoConverter\obj\x64\Debug\VideoConverter_Content.g.cs
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\VideoConverter\VideoConverter\obj\x64\Debug\VideoConverter_MarkupCompile.cache
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\VideoConverter\VideoConverter\obj\x64\Debug\VideoConverter.g.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\VideoConverter\VideoConverter\obj\x64\Debug\VideoConverter.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\VideoConverter\VideoConverter\obj\x64\Debug\VideoConverter.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\VideoConverter\VideoConverter\bin\x64\Debug\AVBlocks64.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\VideoConverter\VideoConverter\bin\x64\Debug\VideoConverter.exe
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\VideoConverter\VideoConverter\bin\x64\Debug\VideoConverter.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\VideoConverter\VideoConverter\bin\x64\Debug\AVBlocks.clr4.x64.dll
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\VideoConverter\VideoConverter\bin\x64\Debug\AVBlocks.clr4.x64.xml
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\VideoConverter\VideoConverter\obj\x64\Debug\VideoConverter.exe
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\VideoConverter\VideoConverter\obj\x64\Debug\VideoConverter.pdb
